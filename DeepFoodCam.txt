@@ -1,6 +1,6 @@
-@InProceedings{tann17,
-  author="Tanno, R. and Yanai, K.",
-  title="DeepStyleCam: A Real-time Style Transfer App on iOS",
-  booktitle="Proc. of International MultiMedia Modeing Conference (MMM)",
-  year="2017"
+@InProceedings{tann16,
+  author="Tanno, R. and Okamoto, K. and Yanai, K.",
+  title="DeepFoodCam: A DCNN-based Real-time Mobile Food Recognition System",
+  booktitle=Proc. of ACM MM Workshop on Multimedia Assisted Dietary Management (MADiMa),
+  year="2016"
 }
