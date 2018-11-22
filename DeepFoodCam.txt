@@ -1,0 +1,6 @@
+@InProceedings{tann17,
+  author="Tanno, R. and Yanai, K.",
+  title="DeepStyleCam: A Real-time Style Transfer App on iOS",
+  booktitle="Proc. of International MultiMedia Modeing Conference (MMM)",
+  year="2017"
+}
